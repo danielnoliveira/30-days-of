@@ -25,7 +25,7 @@
 <ul>
     <p>Start day: 13/11/2020</p>
     <li>Day 1: JavaScript Drum Kit :heavy_check_mark:</li>
-    <li>Day 2: JS and CSS clock</li>
+    <li>Day 2: JS and CSS clock :heavy_check_mark:</li>
     <li>Day 3: CSS Variables</li>
     <li>Day 4: Array Cardio Day 1</li>
     <li>Day 5: Flex Panels Image Gallery</li>
