@@ -54,5 +54,4 @@
     <li>Day 28: Video Speed Controller UI</li>
     <li>Day 29: Countdown Clock</li>
     <li>Day 30: Whack A Mole Game</li>
-    <li>Day 31: That's All Folks!</li>
 </ul>
