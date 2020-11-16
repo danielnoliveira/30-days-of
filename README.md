@@ -3,7 +3,7 @@
 <h1 align="center" style="font-size:30px;text-transform:uppercase;border-bottom:1px solid gray;">
      30-days-of
 </h1>
-<div style="display:flex;align-itens:center;justify-content:space-around;padding:10px 0;flex-wrap:wrap;border-bottom:1px solid gray;">
+<div style="display:flex;align-itens:center;justify-content:center;padding:10px 0;flex-wrap:wrap;border-bottom:1px solid gray;">
     <img src="https://img.shields.io/github/repo-size/danielnoliveira/30-days-of"/>
     <img src="https://img.shields.io/github/languages/count/danielnoliveira/30-days-of"/>
     <img src="https://img.shields.io/github/languages/top/danielnoliveira/30-days-of"/>
