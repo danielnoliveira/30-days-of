@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #9B59B6;
+    width: 90%;
+    height: 100vh;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: left;
+}
+
+.ball {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: white;
+    animation: SideAtSide 5s linear 0s infinite;
+}
+
+.ball0 {
+    filter: blur(0px);
+    z-index: 6;
+}
+
+.ball1 {
+    animation-delay: 0.0025s;
+    filter: blur(0.5px);
+    z-index: 5;
+}
+
+.ball2 {
+    animation-delay: .005s;
+    filter: blur(1px);
+    z-index: 4;
+}
+
+.ball3 {
+    animation-delay: .0075s;
+    filter: blur(1.5px);
+    z-index: 3;
+}
+
+.ball4 {
+    animation-delay: 0.01s;
+    filter: blur(2px);
+    z-index: 2;
+}
+
+.ball5 {
+    animation-delay: 0.0125s;
+    filter: blur(2.5px);
+    z-index: 1;
+}
+
+@keyframes SideAtSide {
+    0% {
+        left: 0;
+    }
+    50% {
+        left: 100%;
+    }
+    100% {
+        left: 0%;
+    }
+}
