@@ -17,6 +17,7 @@
     <h2>Challenges:</h2>
     <ul>
         <li><a href="#30-days-of-javascript">30 days of javascript</a></li>
+        <li><a href="#100-days-of-CSS">100 days of CSS</a></li>
     </ul>
 </div>
 <!---:heavy_check_mark: -->
@@ -54,4 +55,9 @@
     <li>Day 28: Video Speed Controller UI</li>
     <li>Day 29: Countdown Clock</li>
     <li>Day 30: Whack A Mole Game</li>
+</ul>
+
+### 100 days of CSS
+<ul>
+    <li>Day 077</li>
 </ul>
