@@ -59,5 +59,6 @@
 
 ### 100 days of CSS
 <ul>
+     <p>Start day: 16/11/2020</p>
     <li>Day 077</li>
 </ul>
