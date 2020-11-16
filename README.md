@@ -27,7 +27,7 @@
     <li>Day 1: JavaScript Drum Kit :heavy_check_mark:</li>
     <li>Day 2: JS and CSS clock :heavy_check_mark:</li>
     <li>Day 3: CSS Variables :heavy_check_mark:</li>
-    <li>Day 4: Array Cardio Day 1</li>
+    <li>Day 4: Array Cardio Day 1 :heavy_check_mark:</li>
     <li>Day 5: Flex Panels Image Gallery</li>
     <li>Day 6: Ajax Type Ahead</li>
     <li>Day 7: Array Cardio Day 2</li>
