@@ -30,7 +30,7 @@
     <li>Day 3: CSS Variables :heavy_check_mark:</li>
     <li>Day 4: Array Cardio Day 1 :heavy_check_mark:</li>
     <li>Day 5: Flex Panels Image Gallery :heavy_check_mark:</li>
-    <li>Day 6: Ajax Type Ahead</li>
+    <li>Day 6: Ajax Type Ahead :heavy_check_mark:</li>
     <li>Day 7: Array Cardio Day 2</li>
     <li>Day 8: Fun with HTML5 Canvas</li>
     <li>Day 9: Dev Tools Domination</li>
