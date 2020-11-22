@@ -34,7 +34,7 @@
     <li>Day 7: Array Cardio Day 2 :heavy_check_mark:</li>
     <li>Day 8: Fun with HTML5 Canvas:heavy_check_mark:</li>
     <li>Day 9: Dev Tools Domination :heavy_check_mark:</li>
-    <li>Day 10: Hold Shift to Check Multiple Checkboxes</li>
+    <li>Day 10: Hold Shift to Check Multiple Checkboxes :heavy_check_mark:</li>
     <li>Day 11: Custom HTML5 Video Player</li>
     <li>Day 12: Key Sequence Detection</li>
     <li>Day 13: Slide In on scroll</li>
