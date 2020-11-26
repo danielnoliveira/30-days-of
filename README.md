@@ -37,7 +37,7 @@
     <li>Day 10: Hold Shift to Check Multiple Checkboxes :heavy_check_mark:</li>
     <li>Day 11: Custom HTML5 Video Player :heavy_check_mark:</li>
     <li>Day 12: Key Sequence Detection :heavy_check_mark:</li>
-    <li>Day 13: Slide In on scroll</li>
+    <li>Day 13: Slide In on scroll :heavy_check_mark:</li>
     <li>Day 14: Object and Arrays - Referency VS Copy</li>
     <li>Day 15: LocalStorage and Event Delegation</li>
     <li>Day 16: CSS Text Shadow Mouse Move Effect</li>
