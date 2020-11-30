@@ -40,7 +40,7 @@
     <li>Day 13: Slide In on scroll :heavy_check_mark:</li>
     <li>Day 14: Object and Arrays - Referency VS Copy :heavy_check_mark:</li>
     <li>Day 15: LocalStorage and Event Delegation :heavy_check_mark:</li>
-    <li>Day 16: CSS Text Shadow Mouse Move Effect</li>
+    <li>Day 16: CSS Text Shadow Mouse Move Effect :heavy_check_mark:</li>
     <li>Day 17: Sorting Band Names without articles</li>
     <li>Day 18: Tally String Times with Reduce</li>
     <li>Day 19: Unreal Webcam Fun</li>
