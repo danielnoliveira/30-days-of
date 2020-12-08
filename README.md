@@ -44,7 +44,7 @@
     <li>Day 17: Sorting Band Names without articles :heavy_check_mark:</li>
     <li>Day 18: Tally String Times with Reduce :heavy_check_mark:</li>
     <li>Day 19: Unreal Webcam Fun :heavy_check_mark:</li>
-    <li>Day 20: Native Speech Recognition</li>
+    <li>Day 20: Native Speech Recognition :heavy_check_mark:</li>
     <li>Day 21: Geolocation based Speedometer and Compass</li>
     <li>Day 22: Follow Along Links</li>
     <li>Day 23: Speech Synthesis</li>
