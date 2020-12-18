@@ -47,7 +47,7 @@
     <li>Day 20: Native Speech Recognition :heavy_check_mark:</li>
     <li>Day 21: Geolocation based Speedometer and Compass :heavy_check_mark:</li>
     <li>Day 22: Follow Along Links :heavy_check_mark:</li>
-    <li>Day 23: Speech Synthesis</li>
+    <li>Day 23: Speech Synthesis :heavy_check_mark:</li>
     <li>Day 24: Sticky Nav</li>
     <li>Day 25: Event Capture, Propagation, Bubbling and Once</li>
     <li>Day 26: Stripe Follow Along Dropdown</li>
