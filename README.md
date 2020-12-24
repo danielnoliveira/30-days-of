@@ -49,7 +49,7 @@
     <li>Day 22: Follow Along Links :heavy_check_mark:</li>
     <li>Day 23: Speech Synthesis :heavy_check_mark:</li>
     <li>Day 24: Sticky Nav :heavy_check_mark:</li>
-    <li>Day 25: Event Capture, Propagation, Bubbling and Once</li>
+    <li>Day 25: Event Capture, Propagation, Bubbling and Once :heavy_check_mark:</li>
     <li>Day 26: Stripe Follow Along Dropdown</li>
     <li>Day 27: Click and Drag to Scroll</li>
     <li>Day 28: Video Speed Controller UI</li>
