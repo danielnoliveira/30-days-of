@@ -50,11 +50,11 @@
     <li>Day 23: Speech Synthesis :heavy_check_mark:</li>
     <li>Day 24: Sticky Nav :heavy_check_mark:</li>
     <li>Day 25: Event Capture, Propagation, Bubbling and Once :heavy_check_mark:</li>
-    <li>Day 26: Stripe Follow Along Dropdown</li>
-    <li>Day 27: Click and Drag to Scroll</li>
-    <li>Day 28: Video Speed Controller UI</li>
-    <li>Day 29: Countdown Clock</li>
-    <li>Day 30: Whack A Mole Game</li>
+    <li>Day 26: Stripe Follow Along Dropdown :heavy_check_mark:</li>
+    <li>Day 27: Click and Drag to Scroll :heavy_check_mark:</li>
+    <li>Day 28: Video Speed Controller UI :heavy_check_mark:</li>
+    <li>Day 29: Countdown Clock :heavy_check_mark:</li>
+    <li>Day 30: Whack A Mole Game :heavy_check_mark:</li>
 </ul>
 
 ### 100 days of CSS
